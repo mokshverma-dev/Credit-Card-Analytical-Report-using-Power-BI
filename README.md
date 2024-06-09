@@ -9,7 +9,7 @@
 
 # What is the Purpose of this Project?
 
-This Random Forest Classification Machine Learning Model helps in Predicting whether the Candidate is capable of Repaying the Loan. Based on some Labels/Attributes this Machine Learning Model Predicts whether to Grant Loan to that Candidate or not!
+A credit card analytical dashboard serves as a powerful tool for financial institutions to gain a deeper understanding of their credit card operations. By providing real-time insights and detailed analyses, the dashboard helps in enhancing decision-making, improving customer experience, managing risks, ensuring compliance, and driving overall business growth. Through visualizing complex data in an intuitive and interactive manner, stakeholders can make more informed and strategic decisions to optimize their credit card services and achieve business objectives.
 
 # Industry Requirement?
 
