@@ -18,7 +18,10 @@ This type of Analytical Dashboards and Reports are highly used in **Finance Indu
 
 ## Screenshots
 
+Credit Card Transaction Dashboard
 ![Transaction Dasboard](https://github.com/mokshverma-dev/Credit-Card-Analytical-Resport-using-Power-BI/blob/main/Credit%20Card%20Analytical%20Report%20-%20Transactions%20Report%20ScreenShot.png)
+
+Credit Card Customer Analytics Dashboard
 ![Customer Dashboard](https://github.com/mokshverma-dev/Credit-Card-Analytical-Resport-using-Power-BI/blob/main/Credit%20Card%20Analytical%20Report%20-%20Customers%20Report%20ScreenShot.png)
 
 
