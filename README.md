@@ -44,7 +44,7 @@ Credit Card Customer Analytics Dashboard
 
 Here are some related projects
 
-[Resoorces.com](https://github.com/mokshverma-dev/Resoorces)
+[Loan Approval Predication Model](https://github.com/mokshverma-dev/loan-approval-prediction-model)
 
 
 ## Authors
