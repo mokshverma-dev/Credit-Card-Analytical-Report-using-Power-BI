@@ -15,6 +15,13 @@ This Random Forest Classification Machine Learning Model helps in Predicting whe
 
 This type of Analytical Dashboards and Reports are highly used in **Finance Industry**(Corporate Banks and Credit Card Companies).
 
+
+## Screenshots
+
+![Transaction Dasboard](https://drive.google.com/file/d/1Jips9pkOkLMG6HIm0dxK1PFQ-eWdWcsw/view?usp=sharing)
+![Customer Dashboard](https://drive.google.com/file/d/1bsQcGqsKUOCdh6nd24K76NUsDQlCrd3U/view?usp=sharing)
+
+
 # ML Model Code
 
 [Credit_Card_Financial_Dashboard_Report.pbix](https://github.com/mokshverma-dev/Credit-Card-Analytical-Resport-using-Power-BI/blob/main/Credit_Card_Financial_Dashboard_Report.pbix)
